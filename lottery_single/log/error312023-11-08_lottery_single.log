@@ -1,0 +1,36 @@
+2023-11-08T03:18:45.053+0800	ERROR	service/admin.go:75	req_id:%!s(<nil>)|prizeService|GetPrizeList err:PrizeRepo|GetAll:invalid connection
+2023-11-08T03:18:45.055+0800	ERROR	task/prize.go:71	FillPrizePool err:prizeService|GetPrizeList: PrizeRepo|GetAll:invalid connection
+2023-11-08T03:18:45.056+0800	ERROR	task/prize.go:59	FillAllPrizePool err:FillPrizePool|GetPrizeList:prizeService|GetPrizeList: PrizeRepo|GetAll:invalid connection
+2023-11-08T04:17:08.191+0800	ERROR	service/admin.go:75	req_id:%!s(<nil>)|prizeService|GetPrizeList err:PrizeRepo|GetAll:invalid connection
+2023-11-08T04:17:08.192+0800	ERROR	task/prize.go:35	ResetAllPrizePlan err:prizeService|GetPrizeList: PrizeRepo|GetAll:invalid connection
+2023-11-08T04:22:43.513+0800	ERROR	cache/cache.go:460	Redis HIncrBy error: redis: Conn is in a bad state: read tcp 198.18.0.1:57064->121.43.102.177:8089: i/o timeout
+2023-11-08T04:22:43.514+0800	ERROR	task/prize.go:156	incrPrizePool err:redis: Conn is in a bad state: read tcp 198.18.0.1:57064->121.43.102.177:8089: i/o timeout
+2023-11-08T04:57:38.032+0800	ERROR	cache/cache.go:460	Redis HIncrBy error: redis: Conn is in a bad state: read tcp 198.18.0.1:60001->121.43.102.177:8089: i/o timeout
+2023-11-08T04:57:38.034+0800	ERROR	task/prize.go:156	incrPrizePool err:redis: Conn is in a bad state: read tcp 198.18.0.1:60001->121.43.102.177:8089: i/o timeout
+2023-11-08T05:43:57.022+0800	ERROR	service/admin.go:75	req_id:%!s(<nil>)|prizeService|GetPrizeList err:PrizeRepo|GetAll:invalid connection
+2023-11-08T05:43:57.023+0800	ERROR	task/prize.go:71	FillPrizePool err:prizeService|GetPrizeList: PrizeRepo|GetAll:invalid connection
+2023-11-08T05:43:57.023+0800	ERROR	task/prize.go:59	FillAllPrizePool err:FillPrizePool|GetPrizeList:prizeService|GetPrizeList: PrizeRepo|GetAll:invalid connection
+2023-11-08T06:12:22.792+0800	ERROR	cache/cache.go:460	Redis HIncrBy error: redis: Conn is in a bad state: read tcp 198.18.0.1:64575->121.43.102.177:8089: i/o timeout
+2023-11-08T06:12:22.793+0800	ERROR	task/prize.go:156	incrPrizePool err:redis: Conn is in a bad state: read tcp 198.18.0.1:64575->121.43.102.177:8089: i/o timeout
+2023-11-08T06:40:27.992+0800	ERROR	cache/cache.go:460	Redis HIncrBy error: redis: Conn is in a bad state: read tcp 198.18.0.1:65330->121.43.102.177:8089: i/o timeout
+2023-11-08T06:40:27.993+0800	ERROR	task/prize.go:156	incrPrizePool err:redis: Conn is in a bad state: read tcp 198.18.0.1:65330->121.43.102.177:8089: i/o timeout
+2023-11-08T07:14:08.586+0800	ERROR	service/admin.go:75	req_id:%!s(<nil>)|prizeService|GetPrizeList err:PrizeRepo|GetAll:invalid connection
+2023-11-08T07:14:08.587+0800	ERROR	task/prize.go:35	ResetAllPrizePlan err:prizeService|GetPrizeList: PrizeRepo|GetAll:invalid connection
+2023-11-08T07:32:37.109+0800	ERROR	service/admin.go:75	req_id:%!s(<nil>)|prizeService|GetPrizeList err:PrizeRepo|GetAll:invalid connection
+2023-11-08T07:32:37.110+0800	ERROR	task/prize.go:71	FillPrizePool err:prizeService|GetPrizeList: PrizeRepo|GetAll:invalid connection
+2023-11-08T07:32:37.111+0800	ERROR	task/prize.go:59	FillAllPrizePool err:FillPrizePool|GetPrizeList:prizeService|GetPrizeList: PrizeRepo|GetAll:invalid connection
+2023-11-08T09:31:23.374+0800	ERROR	task/prize.go:134	FillPrizePool|UpdateDbPrizeWithCache err:PrizeRepo|Update:invalid connection
+2023-11-08T09:31:23.376+0800	ERROR	task/prize.go:59	FillAllPrizePool err:FillPrizePool|UpdateDbPrizeWithCache:PrizeRepo|Update:invalid connection
+2023-11-08T10:00:11.811+0800	ERROR	service/admin.go:75	req_id:%!s(<nil>)|prizeService|GetPrizeList err:PrizeRepo|GetAll:invalid connection
+2023-11-08T10:00:11.813+0800	ERROR	task/prize.go:71	FillPrizePool err:prizeService|GetPrizeList: PrizeRepo|GetAll:invalid connection
+2023-11-08T10:00:11.813+0800	ERROR	task/prize.go:59	FillAllPrizePool err:FillPrizePool|GetPrizeList:prizeService|GetPrizeList: PrizeRepo|GetAll:invalid connection
+2023-11-08T11:19:50.904+0800	ERROR	cache/cache.go:460	Redis HIncrBy error: redis: Conn is in a bad state: read tcp 198.18.0.1:54177->121.43.102.177:8089: i/o timeout
+2023-11-08T11:19:50.906+0800	ERROR	task/prize.go:156	incrPrizePool err:redis: Conn is in a bad state: read tcp 198.18.0.1:54177->121.43.102.177:8089: i/o timeout
+2023-11-08T11:38:59.380+0800	ERROR	service/admin.go:75	req_id:%!s(<nil>)|prizeService|GetPrizeList err:PrizeRepo|GetAll:invalid connection
+2023-11-08T11:38:59.381+0800	ERROR	task/prize.go:71	FillPrizePool err:prizeService|GetPrizeList: PrizeRepo|GetAll:invalid connection
+2023-11-08T11:38:59.381+0800	ERROR	task/prize.go:59	FillAllPrizePool err:FillPrizePool|GetPrizeList:prizeService|GetPrizeList: PrizeRepo|GetAll:invalid connection
+2023-11-08T11:40:03.731+0800	ERROR	cache/cache.go:460	Redis HIncrBy error: redis: Conn is in a bad state: read tcp 198.18.0.1:52177->121.43.102.177:8089: i/o timeout
+2023-11-08T11:40:03.733+0800	ERROR	task/prize.go:156	incrPrizePool err:redis: Conn is in a bad state: read tcp 198.18.0.1:52177->121.43.102.177:8089: i/o timeout
+2023-11-08T11:50:23.557+0800	ERROR	service/admin.go:75	req_id:%!s(<nil>)|prizeService|GetPrizeList err:PrizeRepo|GetAll:driver: bad connection
+2023-11-08T11:50:23.558+0800	ERROR	task/prize.go:71	FillPrizePool err:prizeService|GetPrizeList: PrizeRepo|GetAll:driver: bad connection
+2023-11-08T11:50:23.558+0800	ERROR	task/prize.go:59	FillAllPrizePool err:FillPrizePool|GetPrizeList:prizeService|GetPrizeList: PrizeRepo|GetAll:driver: bad connection

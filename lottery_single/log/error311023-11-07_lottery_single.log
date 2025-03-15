@@ -1,0 +1,11 @@
+2023-11-07T22:10:29.469+0800	ERROR	service/admin.go:75	req_id:%!s(<nil>)|prizeService|GetPrizeList err:PrizeRepo|GetAll:invalid connection
+2023-11-07T22:10:29.470+0800	ERROR	task/prize.go:71	FillPrizePool err:prizeService|GetPrizeList: PrizeRepo|GetAll:invalid connection
+2023-11-07T22:10:29.470+0800	ERROR	task/prize.go:59	FillAllPrizePool err:FillPrizePool|GetPrizeList:prizeService|GetPrizeList: PrizeRepo|GetAll:invalid connection
+2023-11-07T22:10:46.485+0800	ERROR	service/admin.go:75	req_id:%!s(<nil>)|prizeService|GetPrizeList err:PrizeRepo|GetAll:driver: bad connection
+2023-11-07T22:10:46.485+0800	ERROR	task/prize.go:35	ResetAllPrizePlan err:prizeService|GetPrizeList: PrizeRepo|GetAll:driver: bad connection
+2023-11-07T23:06:12.870+0800	ERROR	service/admin.go:75	req_id:%!s(<nil>)|prizeService|GetPrizeList err:PrizeRepo|GetAll:invalid connection
+2023-11-07T23:06:12.870+0800	ERROR	task/prize.go:71	FillPrizePool err:prizeService|GetPrizeList: PrizeRepo|GetAll:invalid connection
+2023-11-07T23:06:12.870+0800	ERROR	task/prize.go:59	FillAllPrizePool err:FillPrizePool|GetPrizeList:prizeService|GetPrizeList: PrizeRepo|GetAll:invalid connection
+2023-11-07T23:24:09.124+0800	ERROR	service/admin.go:75	req_id:%!s(<nil>)|prizeService|GetPrizeList err:PrizeRepo|GetAll:invalid connection
+2023-11-07T23:24:09.124+0800	ERROR	task/prize.go:71	FillPrizePool err:prizeService|GetPrizeList: PrizeRepo|GetAll:invalid connection
+2023-11-07T23:24:09.124+0800	ERROR	task/prize.go:59	FillAllPrizePool err:FillPrizePool|GetPrizeList:prizeService|GetPrizeList: PrizeRepo|GetAll:invalid connection

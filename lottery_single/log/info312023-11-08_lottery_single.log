@@ -1,0 +1,2577 @@
+2023-11-08T00:00:34.407+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:00:34.411+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:00:34.563+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:00:34.563+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:00:34.563+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:00:34.563+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:00:34.563+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:01:34.563+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:01:34.564+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:01:34.716+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:01:34.717+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:01:34.717+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:01:34.717+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:01:34.717+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:02:30.643+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T00:02:30.643+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:02:34.717+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:02:34.718+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:02:34.856+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:02:34.857+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:02:34.858+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:02:34.858+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:02:34.858+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:03:34.858+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:03:34.859+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:03:34.993+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:03:34.994+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:03:34.994+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:03:34.994+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:03:34.994+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:04:34.994+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:04:34.996+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:04:35.169+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:04:35.170+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:04:35.170+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:04:35.170+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:04:35.171+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:05:35.170+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:05:35.171+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:05:35.438+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:05:35.439+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:05:35.439+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:05:35.439+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:05:35.439+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:06:35.440+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:06:35.443+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:06:35.942+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:06:35.942+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:06:35.942+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:06:35.943+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:06:35.943+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:07:31.864+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T00:07:31.864+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:07:35.943+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:07:35.944+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:07:39.923+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:07:39.924+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:07:39.924+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:07:39.925+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:07:39.925+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:08:39.669+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:08:39.671+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:08:43.281+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:08:43.281+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:08:43.282+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:08:43.282+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:08:43.282+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:09:43.281+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:09:43.283+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:09:43.936+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:09:43.937+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:09:43.937+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:09:43.938+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:09:43.938+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:10:43.936+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:10:43.941+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:10:44.224+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:10:44.224+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:10:44.224+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:10:44.225+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:10:44.225+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:11:44.222+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:11:44.223+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:11:44.461+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:11:44.461+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:11:44.462+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:11:44.462+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:11:44.462+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:12:36.555+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T00:12:36.556+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:12:44.460+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:12:44.461+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:12:44.698+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:12:44.699+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:12:44.699+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:12:44.699+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:12:44.699+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:13:44.697+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:13:44.698+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:13:49.056+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:13:49.056+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:13:49.057+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:13:49.057+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:13:49.057+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:14:49.055+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:14:49.056+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:14:49.230+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:14:49.230+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:14:49.230+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:14:49.231+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:14:49.231+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:15:49.229+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:15:49.230+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:15:49.420+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:15:49.420+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:15:49.421+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:15:49.421+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:15:49.421+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:16:49.420+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:16:49.421+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:16:49.593+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:16:49.594+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:16:49.594+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:16:49.594+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:16:49.594+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:17:36.866+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T00:17:36.868+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:17:49.592+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:17:49.592+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:17:50.166+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:17:50.167+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:17:50.167+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:17:50.167+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:17:50.168+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:18:50.165+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:18:50.166+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:18:51.470+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:18:51.470+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:18:51.471+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:18:51.471+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:18:51.471+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:19:51.469+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:19:51.470+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:19:51.638+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:19:51.638+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:19:51.638+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:19:51.639+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:19:51.639+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:20:51.637+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:20:51.638+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:20:51.807+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:20:51.807+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:20:51.808+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:20:51.808+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:20:51.808+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:21:51.805+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:21:51.806+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:21:52.097+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:21:52.098+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:21:52.098+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:21:52.098+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:21:52.099+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:22:37.024+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T00:22:37.024+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:22:52.097+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:22:52.098+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:22:52.268+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:22:52.269+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:22:52.269+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:22:52.269+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:22:52.269+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:23:52.378+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:23:52.379+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:23:53.658+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:23:53.659+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:23:53.659+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:23:53.659+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:23:53.659+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:24:53.656+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:24:53.658+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:24:54.337+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:24:54.337+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:24:54.338+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:24:20 Num:1}
+2023-11-08T00:24:54.338+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:25:20 Num:1}
+2023-11-08T00:24:58.349+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T00:24:59.228+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:24:59.228+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T00:24:59.390+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T00:25:59.388+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:25:59.389+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:25:59.568+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:25:59.568+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:25:59.568+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 00:25:20 Num:1}
+2023-11-08T00:25:59.568+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:26:01.173+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T00:26:01.707+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:26:01.707+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T00:26:01.876+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T00:27:01.875+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:27:01.877+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:27:02.362+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:27:02.362+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:27:02.362+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:27:02.362+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:27:02.362+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:27:37.733+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T00:27:37.735+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:28:02.361+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:28:02.363+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:28:02.540+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:28:02.541+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:28:02.541+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:28:02.542+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:28:02.542+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:29:02.541+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:29:02.543+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:29:04.629+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:29:04.630+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:29:04.630+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:29:04.630+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:29:04.630+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:30:04.629+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:30:04.630+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:30:04.817+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:30:04.817+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:30:04.818+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:30:04.818+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:30:04.818+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:31:04.817+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:31:04.818+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:31:06.537+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:31:06.537+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:31:06.538+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:31:06.538+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:31:06.538+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:32:06.537+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:32:06.538+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:32:07.065+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:32:07.066+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:32:07.066+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:32:07.067+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:32:07.067+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:32:37.903+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T00:32:37.905+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:33:07.066+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:33:07.068+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:33:07.250+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:33:07.250+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:33:07.251+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:33:07.251+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:33:07.251+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:34:07.250+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:34:07.251+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:34:08.073+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:34:08.073+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:34:08.073+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:34:08.073+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:34:08.074+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:35:08.072+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:35:08.073+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:35:08.255+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:35:08.255+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:35:08.255+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:35:08.255+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:35:08.256+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:36:08.254+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:36:08.256+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:36:13.732+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:36:13.732+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:36:13.732+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:36:13.732+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:36:13.733+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:37:13.733+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:37:13.734+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:37:14.259+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:37:14.260+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:37:14.260+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:37:14.260+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:37:14.260+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:37:38.077+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T00:37:38.078+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:38:14.258+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:38:14.259+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:38:14.471+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:38:14.472+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:38:14.472+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:38:14.472+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:38:14.472+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:39:14.672+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:39:14.673+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:39:14.889+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:39:14.890+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:39:14.890+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:39:14.890+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:39:14.891+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:40:14.892+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:40:14.892+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:40:15.428+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:40:15.428+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:40:15.429+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:40:15.429+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:40:15.429+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:41:15.429+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:41:15.430+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:41:17.845+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:41:17.846+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:41:17.846+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:41:17.846+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:41:17.846+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:42:17.847+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:42:17.847+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:42:18.037+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:42:18.038+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:42:18.038+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:42:18.038+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:42:18.038+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:42:38.483+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T00:42:38.484+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:43:18.040+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:43:18.040+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:43:18.221+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:43:18.221+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:43:18.222+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:43:18.222+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:43:18.222+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:44:18.221+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:44:18.222+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:44:18.401+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:44:18.402+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:44:18.402+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:44:18.402+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:44:18.402+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:45:18.403+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:45:18.404+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:45:18.587+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:45:18.587+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:45:18.588+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:45:18.588+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:45:18.588+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:46:18.589+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:46:18.591+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:46:19.813+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:46:19.814+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:46:19.814+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:46:19.814+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:46:19.814+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:46:38.845+0800	INFO	task/ip.go:23	重置所有的IP抽奖次数
+2023-11-08T00:46:38.845+0800	INFO	task/user.go:22	重置今日用户抽奖次数
+2023-11-08T00:47:19.814+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:47:19.816+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:47:19.962+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:47:19.963+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:47:19.963+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:47:19.963+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:46:22 Num:1}
+2023-11-08T00:47:19.963+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:50:22 Num:1}
+2023-11-08T00:47:20.812+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T00:47:21.242+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T00:47:38.661+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T00:47:38.662+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:48:21.241+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:48:21.242+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:48:21.393+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:48:21.394+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:48:21.394+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:48:21.394+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:50:22 Num:1}
+2023-11-08T00:48:21.394+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:49:21.395+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:49:21.398+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:49:21.544+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:49:21.545+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:49:21.545+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:49:21.546+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:50:22 Num:1}
+2023-11-08T00:49:21.546+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:50:21.546+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:50:21.548+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:50:21.695+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:50:21.695+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:50:21.695+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:50:21.695+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:50:22 Num:1}
+2023-11-08T00:50:21.695+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:51:21.695+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:51:21.696+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:51:22.908+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:51:22.909+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:51:22.909+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:51:22.910+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 00:50:22 Num:1}
+2023-11-08T00:51:22.910+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T00:51:23.763+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T00:51:24.192+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T00:52:24.193+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:52:24.195+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:52:24.344+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:52:24.344+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:52:24.344+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:52:24.345+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T00:52:24.345+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:52:38.806+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T00:52:38.806+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:53:24.345+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:53:24.346+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:53:24.494+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:53:24.495+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:53:24.495+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:53:24.495+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T00:53:24.495+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:54:24.618+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:54:24.619+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:54:24.772+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:54:24.772+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:54:24.772+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:54:24.772+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T00:54:24.772+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:55:24.774+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:55:24.774+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:55:24.937+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:55:24.937+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:55:24.938+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:55:24.938+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T00:55:24.938+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:56:24.939+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:56:24.939+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:56:26.180+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:56:26.180+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:56:26.181+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:56:26.181+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T00:56:26.181+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:57:26.181+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:57:26.183+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:57:26.336+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:57:26.337+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:57:26.337+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:57:26.337+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T00:57:26.338+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:57:39.074+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T00:57:39.075+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:58:26.340+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:58:26.341+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:58:26.499+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:58:26.499+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:58:26.499+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:58:26.499+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T00:58:26.500+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T00:59:26.500+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T00:59:26.502+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T00:59:26.667+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T00:59:26.668+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T00:59:26.668+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T00:59:26.668+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T00:59:26.668+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:00:26.670+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:00:26.671+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:00:26.822+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:00:26.822+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T01:00:26.822+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T01:00:26.822+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:00:26.822+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:01:26.824+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:01:26.826+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:01:28.026+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:01:28.027+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T01:01:28.027+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T01:01:28.027+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:01:28.027+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:02:28.029+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:02:28.031+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:02:28.174+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:02:28.174+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T01:02:28.175+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T01:02:28.175+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:02:28.175+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:02:39.227+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T01:02:39.227+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:03:28.176+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:03:28.178+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:03:28.328+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:03:28.329+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T01:03:28.329+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T01:03:28.329+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:03:28.329+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:04:28.330+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:04:28.332+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:04:28.476+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:04:28.477+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T01:04:28.477+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T01:04:28.477+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:04:28.477+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:05:28.479+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:05:28.480+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:05:28.621+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:05:28.622+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T01:05:28.622+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T01:05:28.623+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:05:28.623+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:06:28.623+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:06:28.624+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:06:29.690+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:06:29.691+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T01:06:29.691+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T01:06:29.691+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:06:29.691+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:07:29.693+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:07:29.693+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:07:29.816+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:07:29.816+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 01:07:19 Num:1}
+2023-11-08T01:07:29.817+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:07:30.572+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T01:07:30.977+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T01:07:30.977+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T01:07:31.119+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:07:31.120+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T01:07:31.263+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T01:07:39.372+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T01:07:39.372+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:08:31.265+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:08:31.265+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:08:31.387+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:08:31.387+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:08:31.388+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T01:08:31.388+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:08:31.388+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:09:31.464+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:09:31.466+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:09:31.587+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:09:31.587+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:09:31.588+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T01:09:31.588+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:09:31.588+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:10:31.591+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:10:31.591+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:10:31.717+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:10:31.717+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:10:31.717+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T01:10:31.718+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:10:31.718+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:11:31.720+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:11:31.722+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:11:32.811+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:11:32.812+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:11:32.812+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T01:11:32.812+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:11:32.812+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:12:32.814+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:12:32.816+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:12:32.944+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:12:32.944+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:12:32.944+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T01:12:32.944+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:12:32.945+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:12:39.567+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T01:12:39.569+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:13:32.947+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:13:32.947+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:13:33.070+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:13:33.071+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:13:33.071+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T01:13:33.071+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:13:33.071+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:14:33.073+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:14:33.075+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:14:33.196+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:14:33.197+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:14:33.197+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T01:14:33.197+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:14:33.197+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:15:33.200+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:15:33.202+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:15:33.325+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:15:33.326+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:15:33.327+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T01:15:33.327+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:15:33.327+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:16:33.330+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:16:33.332+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:16:34.994+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:16:34.994+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:16:34.995+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T01:16:34.995+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:16:34.995+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:17:34.995+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:17:34.997+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:17:35.136+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:17:35.137+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:17:35.137+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T01:17:35.137+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:17:35.137+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:17:39.691+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T01:17:39.692+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:18:35.140+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:18:35.142+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:18:35.282+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:18:35.282+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:18:35.283+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T01:18:35.283+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:18:35.283+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:19:35.285+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:19:35.287+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:19:35.427+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:19:35.427+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:19:35.428+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T01:19:35.428+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:19:35.428+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:20:35.430+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:20:35.431+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:20:35.570+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:20:35.570+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:20:35.571+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 01:20:20 Num:1}
+2023-11-08T01:20:35.571+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:20:36.389+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T01:20:36.812+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:20:36.813+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T01:20:36.952+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T01:21:36.954+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:21:36.957+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:21:38.177+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:21:38.178+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:21:38.178+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:21:38.179+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:21:38.179+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:22:38.181+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:22:38.183+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:22:38.339+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:22:38.340+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:22:38.340+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:22:38.340+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:22:38.340+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:22:39.833+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T01:22:39.834+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:23:38.343+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:23:38.345+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:23:38.496+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:23:38.497+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:23:38.497+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:23:38.497+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:23:38.497+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:24:38.505+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:24:38.507+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:24:38.660+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:24:38.661+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:24:38.661+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:24:38.661+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:24:38.661+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:25:38.665+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:25:38.667+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:25:38.816+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:25:38.816+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:25:38.817+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:25:38.817+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:25:38.817+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:26:38.818+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:26:38.820+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:26:40.062+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:26:40.063+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:26:40.063+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:26:40.063+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:26:40.064+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:27:40.001+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T01:27:40.002+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:27:40.064+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:27:40.065+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:27:41.274+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:27:41.274+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:27:41.275+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:27:41.275+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:27:41.275+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:28:41.276+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:28:41.277+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:28:41.439+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:28:41.440+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:28:41.440+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:28:41.440+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:28:41.441+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:29:41.442+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:29:41.442+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:29:41.589+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:29:41.589+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:29:41.589+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:29:41.590+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:29:41.590+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:30:41.591+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:30:41.593+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:30:41.740+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:30:41.741+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:30:41.742+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:30:41.743+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:30:41.746+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:31:41.747+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:31:41.750+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:31:41.897+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:31:41.897+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:31:41.897+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:31:41.898+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:31:41.898+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:32:40.159+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T01:32:40.160+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:32:41.899+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:32:41.899+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:32:43.237+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:32:43.237+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:32:43.237+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:32:43.237+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:32:43.237+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:33:43.240+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:33:43.241+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:33:43.418+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:33:43.418+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:33:43.419+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:33:43.419+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:33:43.419+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:34:43.420+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:34:43.421+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:34:43.593+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:34:43.594+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:34:43.594+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:34:43.594+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:34:43.594+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:35:43.596+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:35:43.598+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:35:43.777+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:35:43.777+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:35:43.777+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:35:43.778+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:35:43.778+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:36:43.780+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:36:43.782+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:36:43.956+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:36:43.957+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:36:43.957+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:36:43.958+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:36:43.958+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:37:40.311+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T01:37:40.311+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:37:43.959+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:37:43.959+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:37:45.160+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:37:45.160+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:37:45.161+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:37:45.162+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:37:45.162+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:38:45.163+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:38:45.163+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:38:45.310+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:38:45.311+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:38:45.311+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:38:45.311+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:38:45.312+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:44:42.862+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:44:42.864+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:44:43.067+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:44:43.067+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:44:43.068+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:44:43.068+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:44:43.068+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:50:41.036+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:50:41.038+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:50:41.191+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:50:41.192+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:50:41.193+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:50:41.193+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:50:41.193+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T01:56:38.876+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T01:56:38.878+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T01:56:39.028+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T01:56:39.028+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T01:56:39.028+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T01:56:39.028+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T01:56:39.028+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T02:02:31.550+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T02:02:31.551+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T02:02:36.898+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T02:02:36.899+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T02:02:38.116+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T02:02:38.117+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T02:02:38.117+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:00:20 Num:1}
+2023-11-08T02:02:38.118+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:12:20 Num:1}
+2023-11-08T02:02:39.409+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T02:02:39.808+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T02:02:39.808+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T02:02:39.928+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T02:08:37.581+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T02:08:37.582+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T02:08:37.965+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T02:08:37.965+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 02:07:19 Num:1}
+2023-11-08T02:08:37.966+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 03:35:19 Num:1}
+2023-11-08T02:08:38.812+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T02:08:39.201+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:12:20 Num:1}
+2023-11-08T02:08:39.202+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T02:08:39.334+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T02:08:39.335+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T02:08:39.463+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T02:14:37.183+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T02:14:37.184+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T02:14:37.332+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T02:14:37.333+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 03:35:19 Num:1}
+2023-11-08T02:14:37.333+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:12:20 Num:1}
+2023-11-08T02:14:37.333+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:24:20 Num:1}
+2023-11-08T02:14:38.143+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T02:14:38.530+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 02:13:22 Num:1}
+2023-11-08T02:14:38.531+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 03:05:22 Num:1}
+2023-11-08T02:14:39.340+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T02:14:39.727+0800	INFO	task/prize.go:61	FillAllPrizePool with num:2
+2023-11-08T02:20:38.164+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T02:20:38.166+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T02:20:38.314+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T02:20:38.315+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 03:35:19 Num:1}
+2023-11-08T02:20:38.315+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:24:20 Num:1}
+2023-11-08T02:20:38.316+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 03:05:22 Num:1}
+2023-11-08T02:20:38.316+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T02:26:36.011+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T02:26:36.011+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T02:26:36.160+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 02:26:18 Num:1}
+2023-11-08T02:26:36.161+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T02:26:36.982+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T02:26:37.398+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 03:35:19 Num:1}
+2023-11-08T02:26:37.399+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T02:26:37.519+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:24:20 Num:1}
+2023-11-08T02:26:37.519+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:30:20 Num:1}
+2023-11-08T02:26:38.332+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T02:26:38.721+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 03:05:22 Num:1}
+2023-11-08T02:26:38.722+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T02:26:38.847+0800	INFO	task/prize.go:61	FillAllPrizePool with num:2
+2023-11-08T02:32:20.832+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T02:32:20.833+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T02:32:36.484+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T02:32:36.487+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T02:32:37.555+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T02:32:37.556+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 03:35:19 Num:1}
+2023-11-08T02:32:37.557+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 02:30:20 Num:1}
+2023-11-08T02:32:37.557+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 03:14:20 Num:1}
+2023-11-08T02:32:38.253+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T02:32:38.612+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 03:05:22 Num:1}
+2023-11-08T02:32:38.612+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T02:32:38.734+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T02:43:34.016+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T02:43:34.017+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T02:43:34.140+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T02:43:34.140+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 03:35:19 Num:1}
+2023-11-08T02:43:34.141+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 03:14:20 Num:1}
+2023-11-08T02:43:34.141+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 03:05:22 Num:1}
+2023-11-08T02:43:34.141+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T02:49:31.735+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T02:49:31.736+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T02:49:32.074+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T02:49:32.075+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 03:35:19 Num:1}
+2023-11-08T02:49:32.075+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 03:14:20 Num:1}
+2023-11-08T02:49:32.075+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 03:05:22 Num:1}
+2023-11-08T02:49:32.076+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T02:55:29.891+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T02:55:29.892+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T02:55:30.011+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T02:55:30.012+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 03:35:19 Num:1}
+2023-11-08T02:55:30.012+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 03:14:20 Num:1}
+2023-11-08T02:55:30.012+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 03:05:22 Num:1}
+2023-11-08T02:55:30.013+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T03:06:25.302+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T03:06:25.304+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T03:07:06.951+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T03:07:06.951+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T03:18:45.056+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T03:29:40.585+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T03:29:40.585+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T03:29:40.759+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T03:29:40.760+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 03:35:19 Num:1}
+2023-11-08T03:29:40.760+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 03:14:20 Num:1}
+2023-11-08T03:29:40.760+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 03:22:20 Num:1}
+2023-11-08T03:29:40.761+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 03:54:20 Num:1}
+2023-11-08T03:29:42.243+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T03:29:42.686+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 03:05:22 Num:1}
+2023-11-08T03:29:42.687+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 04:57:22 Num:1}
+2023-11-08T03:29:43.619+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T03:29:44.094+0800	INFO	task/prize.go:61	FillAllPrizePool with num:3
+2023-11-08T03:35:41.963+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T03:35:41.964+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T03:35:42.137+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T03:35:42.138+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 03:35:19 Num:1}
+2023-11-08T03:35:42.138+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 03:42:19 Num:1}
+2023-11-08T03:35:43.089+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T03:35:43.532+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 03:54:20 Num:1}
+2023-11-08T03:35:43.533+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T03:35:43.669+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 04:57:22 Num:1}
+2023-11-08T03:35:43.669+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T03:35:43.804+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T03:41:41.555+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T03:41:41.556+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T03:41:41.735+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T03:41:41.736+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 03:42:19 Num:1}
+2023-11-08T03:41:41.736+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 03:54:20 Num:1}
+2023-11-08T03:41:41.737+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 04:57:22 Num:1}
+2023-11-08T03:41:41.737+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T03:41:54.949+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T03:41:54.949+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T03:42:50.431+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T03:42:50.433+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T03:42:50.564+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T03:42:50.564+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 03:42:19 Num:1}
+2023-11-08T03:42:50.565+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 04:13:19 Num:1}
+2023-11-08T03:42:51.279+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T03:42:51.666+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 03:54:20 Num:1}
+2023-11-08T03:42:51.666+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T03:42:51.800+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 04:57:22 Num:1}
+2023-11-08T03:42:51.800+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T03:42:51.934+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T03:53:47.611+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T03:53:47.613+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T03:53:47.735+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T03:53:47.736+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 04:13:19 Num:1}
+2023-11-08T03:53:47.736+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 03:54:20 Num:1}
+2023-11-08T03:53:47.736+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 04:57:22 Num:1}
+2023-11-08T03:53:47.737+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T03:59:45.306+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T03:59:45.306+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T03:59:45.453+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T03:59:45.454+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 04:13:19 Num:1}
+2023-11-08T03:59:45.454+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 03:54:20 Num:1}
+2023-11-08T03:59:45.454+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:35:20 Num:1}
+2023-11-08T03:59:46.816+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T03:59:47.210+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 04:57:22 Num:1}
+2023-11-08T03:59:47.210+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T03:59:47.345+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T04:05:45.291+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T04:05:45.292+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T04:05:45.410+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T04:05:45.411+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 04:13:19 Num:1}
+2023-11-08T04:05:45.411+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:35:20 Num:1}
+2023-11-08T04:05:45.411+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 04:57:22 Num:1}
+2023-11-08T04:05:45.411+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T04:11:43.078+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T04:11:43.079+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T04:11:43.198+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T04:11:43.198+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 04:13:19 Num:1}
+2023-11-08T04:11:43.198+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:35:20 Num:1}
+2023-11-08T04:11:43.199+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 04:57:22 Num:1}
+2023-11-08T04:11:43.199+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T04:11:53.566+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T04:11:53.567+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T04:22:39.370+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T04:22:39.370+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T04:22:40.489+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T04:22:40.491+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 04:13:19 Num:1}
+2023-11-08T04:22:40.491+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 04:29:19 Num:1}
+2023-11-08T04:22:45.084+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T04:22:45.433+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:35:20 Num:1}
+2023-11-08T04:22:45.434+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T04:22:45.546+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 04:57:22 Num:1}
+2023-11-08T04:22:45.546+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T04:22:45.657+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T04:28:43.258+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T04:28:43.260+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T04:28:43.389+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T04:28:43.389+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 04:29:19 Num:1}
+2023-11-08T04:28:43.390+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:35:20 Num:1}
+2023-11-08T04:28:43.390+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 04:57:22 Num:1}
+2023-11-08T04:28:43.390+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T04:34:40.916+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T04:34:40.917+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T04:34:41.048+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T04:34:41.048+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 04:29:19 Num:1}
+2023-11-08T04:34:41.049+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 06:05:19 Num:1}
+2023-11-08T04:34:41.762+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T04:34:42.117+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:35:20 Num:1}
+2023-11-08T04:34:42.118+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T04:34:42.229+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 04:57:22 Num:1}
+2023-11-08T04:34:42.230+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T04:34:42.343+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T04:40:39.967+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T04:40:39.968+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T04:40:40.099+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T04:40:40.100+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 06:05:19 Num:1}
+2023-11-08T04:40:40.100+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:35:20 Num:1}
+2023-11-08T04:40:40.101+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 04:57:22 Num:1}
+2023-11-08T04:40:40.101+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T04:51:35.478+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T04:51:35.479+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T04:51:35.607+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T04:51:35.608+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 06:05:19 Num:1}
+2023-11-08T04:51:35.608+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:35:20 Num:1}
+2023-11-08T04:51:35.609+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 04:57:22 Num:1}
+2023-11-08T04:51:35.609+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T04:51:53.980+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T04:51:53.982+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T04:57:33.147+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T04:57:33.148+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T04:57:35.007+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T04:57:35.007+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 06:05:19 Num:1}
+2023-11-08T04:57:35.008+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:35:20 Num:1}
+2023-11-08T04:57:35.009+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 04:57:22 Num:1}
+2023-11-08T04:57:35.010+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 05:49:22 Num:1}
+2023-11-08T04:57:39.345+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T04:57:39.797+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T05:03:37.352+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T05:03:37.353+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T05:03:37.477+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T05:03:37.477+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 06:05:19 Num:1}
+2023-11-08T05:03:37.478+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:35:20 Num:1}
+2023-11-08T05:03:37.478+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 05:49:22 Num:1}
+2023-11-08T05:03:37.478+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T05:14:32.914+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T05:14:32.915+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T05:14:33.039+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T05:14:33.039+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 06:05:19 Num:1}
+2023-11-08T05:14:33.040+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:35:20 Num:1}
+2023-11-08T05:14:33.040+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 05:49:22 Num:1}
+2023-11-08T05:14:33.040+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T05:20:30.710+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T05:20:30.711+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T05:20:30.835+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T05:20:30.835+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 06:05:19 Num:1}
+2023-11-08T05:20:30.836+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:35:20 Num:1}
+2023-11-08T05:20:30.836+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 05:49:22 Num:1}
+2023-11-08T05:20:30.836+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T05:26:28.724+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T05:26:28.724+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T05:26:28.846+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T05:26:28.846+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 06:05:19 Num:1}
+2023-11-08T05:26:28.846+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:35:20 Num:1}
+2023-11-08T05:26:28.846+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 05:49:22 Num:1}
+2023-11-08T05:26:28.846+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T05:26:40.190+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T05:26:40.191+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T05:32:26.589+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T05:32:26.590+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T05:32:27.877+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T05:32:27.878+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 06:05:19 Num:1}
+2023-11-08T05:32:27.878+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:35:20 Num:1}
+2023-11-08T05:32:27.878+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 05:49:22 Num:1}
+2023-11-08T05:32:27.879+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T05:43:23.446+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T05:43:23.547+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T05:43:57.023+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T05:49:54.946+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T05:49:54.947+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T05:55:23.820+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T05:55:23.821+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 06:05:19 Num:1}
+2023-11-08T05:55:23.822+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:35:20 Num:1}
+2023-11-08T05:55:23.822+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 05:49:22 Num:1}
+2023-11-08T05:55:23.822+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 06:07:22 Num:1}
+2023-11-08T05:55:25.165+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T05:55:25.565+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T06:01:23.844+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T06:01:23.845+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T06:01:23.963+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T06:01:23.964+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 06:05:19 Num:1}
+2023-11-08T06:01:23.964+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:35:20 Num:1}
+2023-11-08T06:01:23.965+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 06:07:22 Num:1}
+2023-11-08T06:01:23.965+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T06:06:25.492+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T06:06:25.492+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T06:12:19.659+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T06:12:19.661+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T06:12:19.778+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T06:12:19.779+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 06:05:19 Num:1}
+2023-11-08T06:12:19.779+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 07:44:19 Num:1}
+2023-11-08T06:12:23.948+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T06:12:24.335+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:35:20 Num:1}
+2023-11-08T06:12:24.335+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T06:12:24.470+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 06:07:22 Num:1}
+2023-11-08T06:12:24.471+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 07:27:22 Num:1}
+2023-11-08T06:12:25.197+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T06:12:25.583+0800	INFO	task/prize.go:61	FillAllPrizePool with num:2
+2023-11-08T06:18:23.951+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T06:18:23.953+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T06:18:24.069+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T06:18:24.070+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 07:44:19 Num:1}
+2023-11-08T06:18:24.070+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:35:20 Num:1}
+2023-11-08T06:18:24.071+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 07:27:22 Num:1}
+2023-11-08T06:18:24.071+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T06:24:21.911+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T06:24:21.913+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T06:24:22.030+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T06:24:22.031+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 07:44:19 Num:1}
+2023-11-08T06:24:22.031+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:35:20 Num:1}
+2023-11-08T06:24:22.032+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 07:27:22 Num:1}
+2023-11-08T06:24:22.032+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T06:40:23.890+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T06:40:23.892+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T06:40:24.967+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T06:40:24.968+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 07:44:19 Num:1}
+2023-11-08T06:40:24.968+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:35:20 Num:1}
+2023-11-08T06:40:24.968+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:46:20 Num:1}
+2023-11-08T06:40:29.278+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T06:40:29.744+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 07:27:22 Num:1}
+2023-11-08T06:40:29.745+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T06:40:29.910+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T07:13:44.169+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T07:13:44.170+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T07:13:52.177+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T07:13:52.177+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T07:13:53.288+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T07:13:53.288+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 07:44:19 Num:1}
+2023-11-08T07:13:53.289+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 06:46:20 Num:1}
+2023-11-08T07:13:53.289+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 07:00:20 Num:1}
+2023-11-08T07:13:53.289+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 07:49:20 Num:1}
+2023-11-08T07:13:55.148+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T07:13:55.545+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 07:27:22 Num:1}
+2023-11-08T07:13:55.545+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T07:13:55.681+0800	INFO	task/prize.go:61	FillAllPrizePool with num:2
+2023-11-08T07:32:17.248+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T07:32:17.250+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T07:32:37.111+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T07:49:19.733+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T07:49:19.734+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T07:49:21.031+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T07:49:21.032+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 07:44:19 Num:1}
+2023-11-08T07:49:21.032+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 07:59:19 Num:1}
+2023-11-08T07:49:22.586+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T07:49:23.070+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 07:49:20 Num:1}
+2023-11-08T07:49:23.070+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 08:05:20 Num:1}
+2023-11-08T08:56:27.334+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T08:56:27.336+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T09:31:23.376+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T09:48:58.057+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T09:48:58.058+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:00:11.813+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:01:11.799+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:01:11.802+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:01:12.903+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:01:12.903+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 07:59:19 Num:1}
+2023-11-08T10:01:12.903+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 08:19:19 Num:1}
+2023-11-08T10:01:12.903+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 08:55:19 Num:1}
+2023-11-08T10:01:12.903+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 09:00:19 Num:1}
+2023-11-08T10:01:12.904+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 09:12:19 Num:1}
+2023-11-08T10:01:12.904+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 09:34:19 Num:1}
+2023-11-08T10:01:12.904+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:01:15.318+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T10:01:15.717+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 07:49:20 Num:1}
+2023-11-08T10:01:15.718+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 08:05:20 Num:1}
+2023-11-08T10:01:15.718+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 08:12:20 Num:1}
+2023-11-08T10:01:15.718+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 08:28:20 Num:1}
+2023-11-08T10:01:15.719+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 08:48:20 Num:1}
+2023-11-08T10:01:15.720+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 09:27:20 Num:1}
+2023-11-08T10:01:15.720+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 09:56:20 Num:1}
+2023-11-08T10:01:15.720+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:01:16.474+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T10:01:16.866+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 07:27:22 Num:1}
+2023-11-08T10:01:16.867+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 08:14:22 Num:1}
+2023-11-08T10:01:16.867+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 08:20:22 Num:1}
+2023-11-08T10:01:16.868+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 08:26:22 Num:1}
+2023-11-08T10:01:16.868+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 08:46:22 Num:1}
+2023-11-08T10:01:16.868+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 09:15:22 Num:1}
+2023-11-08T10:01:16.868+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:10:22 Num:1}
+2023-11-08T10:01:17.628+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T10:01:18.033+0800	INFO	task/prize.go:61	FillAllPrizePool with num:19
+2023-11-08T10:02:02.397+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T10:02:02.399+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:02:18.034+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:02:18.036+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:02:18.168+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:02:18.169+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:02:18.169+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:02:18.170+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:10:22 Num:1}
+2023-11-08T10:02:18.170+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:03:18.170+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:03:18.172+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:03:18.298+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:03:18.299+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:03:18.300+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:03:18.300+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:10:22 Num:1}
+2023-11-08T10:03:18.300+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:04:18.300+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:04:18.302+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:04:18.423+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:04:18.424+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:04:18.424+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:04:18.425+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:10:22 Num:1}
+2023-11-08T10:04:18.425+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:05:18.425+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:05:18.427+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:05:18.548+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:05:18.549+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:05:18.549+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:05:18.550+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:10:22 Num:1}
+2023-11-08T10:05:18.550+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:06:18.551+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:06:18.552+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:06:19.810+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:06:19.811+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:06:19.811+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:06:19.811+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:10:22 Num:1}
+2023-11-08T10:06:19.811+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:07:02.519+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T10:07:02.521+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:07:19.813+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:07:19.813+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:07:19.977+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:07:19.977+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:07:19.978+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:07:19.978+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:10:22 Num:1}
+2023-11-08T10:07:19.978+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:08:19.978+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:08:19.979+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:08:20.133+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:08:20.134+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:08:20.134+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:08:20.134+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:10:22 Num:1}
+2023-11-08T10:08:20.134+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:09:20.136+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:09:20.137+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:09:20.292+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:09:20.292+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:09:20.293+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:09:20.293+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:10:22 Num:1}
+2023-11-08T10:09:20.293+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:10:20.295+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:10:20.295+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:10:20.448+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:10:20.448+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:10:20.448+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:10:20.449+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:10:22 Num:1}
+2023-11-08T10:10:20.449+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:11:46.660+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:11:46.662+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:11:47.889+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:11:47.889+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:11:47.890+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:11:47.890+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:10:22 Num:1}
+2023-11-08T10:11:47.890+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:21:22 Num:1}
+2023-11-08T10:11:48.875+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T10:11:49.592+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T10:12:28.891+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T10:12:28.893+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:12:49.592+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:12:49.593+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:12:49.746+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:12:49.746+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:12:49.747+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:12:49.747+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:21:22 Num:1}
+2023-11-08T10:12:49.747+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:13:49.746+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:13:49.748+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:13:49.903+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:13:49.904+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:13:49.904+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:13:49.905+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:21:22 Num:1}
+2023-11-08T10:13:49.905+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:14:49.905+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:14:49.908+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:14:50.060+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:14:50.060+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:14:50.061+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:14:50.061+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:21:22 Num:1}
+2023-11-08T10:14:50.061+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:15:50.060+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:15:50.061+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:15:50.220+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:15:50.220+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:15:50.220+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:15:50.221+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:21:22 Num:1}
+2023-11-08T10:15:50.221+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:16:50.221+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:16:50.222+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:16:51.304+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:16:51.304+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:16:51.305+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:16:51.305+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:21:22 Num:1}
+2023-11-08T10:16:51.305+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:17:29.043+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T10:17:29.045+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:17:51.305+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:17:51.307+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:17:51.436+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:17:51.437+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:17:51.437+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:17:51.437+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:21:22 Num:1}
+2023-11-08T10:17:51.438+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:18:51.437+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:18:51.438+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:18:51.558+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:18:51.558+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:18:51.559+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:18:51.559+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:21:22 Num:1}
+2023-11-08T10:18:51.559+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:19:51.559+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:19:51.561+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:19:51.691+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:19:51.691+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:19:51.692+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:19:51.692+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:21:22 Num:1}
+2023-11-08T10:19:51.692+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:20:51.692+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:20:51.693+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:20:51.819+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:20:51.819+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:20:51.819+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:20:51.819+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:21:22 Num:1}
+2023-11-08T10:20:51.819+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:21:51.819+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:21:51.820+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:21:53.043+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:21:53.044+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:21:53.044+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:21:53.044+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:21:22 Num:1}
+2023-11-08T10:21:53.045+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:36:22 Num:1}
+2023-11-08T10:21:53.874+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T10:21:54.295+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T10:22:29.159+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T10:22:29.161+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:22:54.294+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:22:54.296+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:22:54.470+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:22:54.470+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:22:54.470+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:22:54.471+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:36:22 Num:1}
+2023-11-08T10:22:54.471+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:23:54.471+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:23:54.474+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:23:54.619+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:23:54.620+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:23:54.620+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:23:54.621+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:36:22 Num:1}
+2023-11-08T10:23:54.621+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:24:54.621+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:24:54.623+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:24:54.769+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:24:54.770+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:24:54.770+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:24:54.770+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:36:22 Num:1}
+2023-11-08T10:24:54.771+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:25:54.771+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:25:54.771+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:25:54.925+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:25:54.926+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:25:19 Num:1}
+2023-11-08T10:25:54.926+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:25:55.804+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T10:25:56.236+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:25:56.236+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T10:25:56.380+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:36:22 Num:1}
+2023-11-08T10:25:56.381+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T10:25:56.558+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T10:26:56.559+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:26:56.561+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:26:57.645+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:26:57.646+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:26:57.646+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:26:57.646+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:36:22 Num:1}
+2023-11-08T10:26:57.646+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:27:29.310+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T10:27:29.311+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:27:57.646+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:27:57.647+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:27:57.765+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:27:57.765+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:27:57.766+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:27:57.766+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:36:22 Num:1}
+2023-11-08T10:27:57.766+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:28:57.766+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:28:57.767+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:28:57.883+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:28:57.884+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:28:57.884+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:28:57.884+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:36:22 Num:1}
+2023-11-08T10:28:57.884+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:29:57.884+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:29:57.888+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:29:58.004+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:29:58.004+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:29:58.005+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:29:58.005+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:36:22 Num:1}
+2023-11-08T10:29:58.005+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:30:58.004+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:30:58.005+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:30:58.123+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:30:58.124+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:30:58.124+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:30:58.124+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:36:22 Num:1}
+2023-11-08T10:30:58.124+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:31:58.123+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:31:58.126+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:31:59.467+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:31:59.468+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:31:59.468+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:31:59.468+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:36:22 Num:1}
+2023-11-08T10:31:59.469+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:32:29.423+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T10:32:29.423+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:32:59.468+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:32:59.468+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:32:59.644+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:32:59.644+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:32:59.645+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:32:59.645+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:36:22 Num:1}
+2023-11-08T10:32:59.645+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:33:59.645+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:33:59.647+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:33:59.827+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:33:59.827+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:33:59.828+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:33:59.828+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:36:22 Num:1}
+2023-11-08T10:33:59.828+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:34:59.827+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:34:59.828+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:35:00.004+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:35:00.005+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:35:00.005+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:35:00.005+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:36:22 Num:1}
+2023-11-08T10:35:00.005+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:36:00.005+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:36:00.008+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:36:00.189+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:36:00.190+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:36:00.190+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:36:00.190+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:36:22 Num:1}
+2023-11-08T10:36:00.190+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:37:00.190+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:37:00.191+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:37:01.385+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:37:01.385+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:37:01.386+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:37:01.386+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:36:22 Num:1}
+2023-11-08T10:37:01.386+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:49:22 Num:1}
+2023-11-08T10:37:02.202+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T10:37:02.624+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T10:37:29.595+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T10:37:29.596+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:38:02.624+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:38:02.625+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:38:02.769+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:38:02.770+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:38:02.771+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:38:02.771+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:49:22 Num:1}
+2023-11-08T10:38:02.771+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:39:02.770+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:39:02.772+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:39:02.913+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:39:02.914+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:39:02.914+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:39:02.914+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:49:22 Num:1}
+2023-11-08T10:39:02.915+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:40:02.915+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:40:02.915+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:40:03.064+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:40:03.065+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:40:03.065+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:40:03.065+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:49:22 Num:1}
+2023-11-08T10:40:03.065+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:41:03.065+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:41:03.065+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:41:03.220+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:41:03.220+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:41:03.220+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:41:03.221+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:49:22 Num:1}
+2023-11-08T10:41:03.221+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:42:03.250+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:42:03.251+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:42:04.995+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:42:04.995+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:42:04.996+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:42:04.996+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:49:22 Num:1}
+2023-11-08T10:42:04.996+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:42:29.773+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T10:42:29.773+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:43:05.000+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:43:05.000+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:43:05.148+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:43:05.149+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:43:05.149+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:43:05.149+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:49:22 Num:1}
+2023-11-08T10:43:05.149+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:44:05.149+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:44:05.149+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:44:05.297+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:44:05.297+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:44:05.298+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:44:05.298+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:49:22 Num:1}
+2023-11-08T10:44:05.298+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:45:05.298+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:45:05.299+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:45:05.444+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:45:05.445+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:45:05.445+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:45:05.446+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:49:22 Num:1}
+2023-11-08T10:45:05.446+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:46:05.446+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:46:05.448+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:46:05.602+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:46:05.603+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:46:05.603+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:46:05.604+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:49:22 Num:1}
+2023-11-08T10:46:05.604+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:47:05.603+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:47:05.604+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:47:06.720+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:47:06.721+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:47:06.721+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:47:06.722+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:49:22 Num:1}
+2023-11-08T10:47:06.722+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:47:29.918+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T10:47:29.919+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:48:06.722+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:48:06.724+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:48:06.855+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:48:06.855+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:48:06.855+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:48:06.855+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:49:22 Num:1}
+2023-11-08T10:48:06.855+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:49:06.855+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:49:06.856+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:49:06.982+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:49:06.983+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:49:06.983+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:49:06.983+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:49:22 Num:1}
+2023-11-08T10:49:06.984+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:50:06.984+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:50:06.986+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:50:07.136+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:50:07.136+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:50:07.137+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:50:07.137+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 10:49:22 Num:1}
+2023-11-08T10:50:07.137+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 11:22:22 Num:1}
+2023-11-08T10:50:07.922+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T10:50:08.313+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T10:51:08.314+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:51:08.315+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:51:08.441+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:51:08.442+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:51:08.443+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:51:08.443+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 11:22:22 Num:1}
+2023-11-08T10:51:08.443+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:52:08.443+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:52:08.445+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:52:09.678+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:52:09.678+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:52:09.679+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:52:09.679+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 11:22:22 Num:1}
+2023-11-08T10:52:09.679+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:52:30.040+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T10:52:30.042+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:53:09.678+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:53:09.679+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:53:09.826+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:53:09.827+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:53:09.827+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:53:09.828+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 11:22:22 Num:1}
+2023-11-08T10:53:09.828+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:54:09.828+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:54:09.830+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:54:09.982+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:54:09.983+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:54:09.983+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:54:09.984+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 11:22:22 Num:1}
+2023-11-08T10:54:09.984+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:55:09.984+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:55:09.986+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:55:10.138+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:55:10.138+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:55:10.139+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:55:10.139+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 11:22:22 Num:1}
+2023-11-08T10:55:10.139+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:56:10.139+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:56:10.141+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:56:10.290+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:56:10.290+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:56:10.291+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:56:10.291+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 11:22:22 Num:1}
+2023-11-08T10:56:10.291+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:57:10.352+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:57:10.353+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:57:11.574+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:57:11.575+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:57:11.575+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:57:11.575+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 11:22:22 Num:1}
+2023-11-08T10:57:11.576+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T10:57:30.257+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T10:57:30.259+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:58:11.577+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:58:11.579+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:58:11.728+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:58:11.728+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 10:57:19 Num:1}
+2023-11-08T10:58:11.729+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 11:17:19 Num:1}
+2023-11-08T10:58:12.556+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T10:58:12.992+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:58:12.993+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T10:58:13.130+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 11:22:22 Num:1}
+2023-11-08T10:58:13.131+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T10:58:13.266+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T10:59:13.268+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T10:59:13.269+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T10:59:13.412+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T10:59:13.412+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 11:17:19 Num:1}
+2023-11-08T10:59:13.413+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T10:59:13.413+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 11:22:22 Num:1}
+2023-11-08T10:59:13.413+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T11:00:13.415+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T11:00:13.416+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T11:00:13.563+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T11:00:13.563+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 11:17:19 Num:1}
+2023-11-08T11:00:13.564+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T11:00:13.564+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 11:22:22 Num:1}
+2023-11-08T11:00:13.564+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T11:01:13.566+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T11:01:13.567+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T11:01:13.710+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T11:01:13.711+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 11:17:19 Num:1}
+2023-11-08T11:01:13.711+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T11:01:13.712+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 11:22:22 Num:1}
+2023-11-08T11:01:13.712+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T11:19:46.258+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T11:19:46.260+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T11:19:47.877+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T11:19:47.878+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 11:17:19 Num:1}
+2023-11-08T11:19:47.878+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 12:20:19 Num:1}
+2023-11-08T11:19:52.140+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T11:19:52.528+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T11:19:52.529+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T11:19:52.639+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 11:22:22 Num:1}
+2023-11-08T11:19:52.639+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T11:19:52.751+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T11:20:02.949+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T11:20:02.949+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T11:37:34.182+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T11:37:34.183+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T11:38:59.381+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T11:39:59.382+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T11:39:59.384+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T11:40:00.715+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T11:40:00.716+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 12:20:19 Num:1}
+2023-11-08T11:40:00.716+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T11:40:00.716+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 11:22:22 Num:1}
+2023-11-08T11:40:00.717+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 12:04:22 Num:1}
+2023-11-08T11:40:05.244+0800	INFO	service/admin.go:83	req_id:%!s(<nil>)|GetPrizeListWithCache!!!!!
+2023-11-08T11:40:05.754+0800	INFO	task/prize.go:61	FillAllPrizePool with num:1
+2023-11-08T11:41:05.754+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T11:41:05.756+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T11:41:05.928+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T11:41:05.929+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 12:20:19 Num:1}
+2023-11-08T11:41:05.929+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T11:41:05.930+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 12:04:22 Num:1}
+2023-11-08T11:41:05.930+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T11:41:44.553+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T11:41:44.553+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T11:42:05.930+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T11:42:05.931+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T11:42:06.102+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T11:42:06.103+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 12:20:19 Num:1}
+2023-11-08T11:42:06.103+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T11:42:06.104+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 12:04:22 Num:1}
+2023-11-08T11:42:06.104+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T11:43:06.105+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T11:43:06.107+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T11:43:06.280+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T11:43:06.280+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 12:20:19 Num:1}
+2023-11-08T11:43:06.281+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T11:43:06.281+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 12:04:22 Num:1}
+2023-11-08T11:43:06.281+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T11:44:06.282+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T11:44:06.282+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T11:44:06.453+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T11:44:06.454+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 12:20:19 Num:1}
+2023-11-08T11:44:06.454+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T11:44:06.455+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 12:04:22 Num:1}
+2023-11-08T11:44:06.455+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T11:45:06.456+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T11:45:06.458+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T11:45:07.799+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T11:45:07.800+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 12:20:19 Num:1}
+2023-11-08T11:45:07.800+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T11:45:07.800+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 12:04:22 Num:1}
+2023-11-08T11:45:07.800+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T11:46:07.801+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T11:46:07.803+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T11:46:07.980+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T11:46:07.981+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 12:20:19 Num:1}
+2023-11-08T11:46:07.981+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T11:46:07.981+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 12:04:22 Num:1}
+2023-11-08T11:46:07.982+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T11:46:44.725+0800	INFO	task/prize.go:31	Resetting all prizes!!!!!
+2023-11-08T11:46:44.725+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T11:47:07.981+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T11:47:07.982+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T11:47:08.162+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T11:47:08.162+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 12:20:19 Num:1}
+2023-11-08T11:47:08.163+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T11:47:08.163+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 12:04:22 Num:1}
+2023-11-08T11:47:08.163+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T11:48:08.164+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T11:48:08.165+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T11:48:08.362+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T11:48:08.363+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 12:20:19 Num:1}
+2023-11-08T11:48:08.363+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T11:48:08.363+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 12:04:22 Num:1}
+2023-11-08T11:48:08.363+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T11:49:08.363+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T11:49:08.364+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T11:49:08.541+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=17
+, prizePlanInfo=&{Time:2023-11-08 13:39:18 Num:1}
+2023-11-08T11:49:08.541+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=18
+, prizePlanInfo=&{Time:2023-11-08 12:20:19 Num:1}
+2023-11-08T11:49:08.542+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=19
+, prizePlanInfo=&{Time:2023-11-08 11:56:20 Num:1}
+2023-11-08T11:49:08.542+0800	INFO	task/prize.go:99	fillPrizePool|prize_id=20
+, prizePlanInfo=&{Time:2023-11-08 12:04:22 Num:1}
+2023-11-08T11:49:08.542+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
+2023-11-08T11:50:08.543+0800	INFO	task/prize.go:56	FillAllPrizePool!!!!
+2023-11-08T11:50:08.543+0800	INFO	service/admin.go:71	req_id:%!s(<nil>)|GetPrizeList!!!!!
+2023-11-08T11:50:23.558+0800	INFO	task/prize.go:61	FillAllPrizePool with num:0
